@@ -1,4 +1,4 @@
-![profile](images/profile.jpeg)
+![profile](https://raw.githubusercontent.com/kyle-seongwoo-jun/kyle-seongwoo-jun/master/images/profile.jpeg)
 
 ### Hi there 👋
 
