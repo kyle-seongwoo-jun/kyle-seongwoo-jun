@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - [![Aurender logo][]][Aurender url]
 
 - 👨‍💻 Skills: 
-  - ❤️ Loves: [![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url]
+  - ❤️ Loves: [![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url] [![Android logo][]][Android url]
   - 😃 Enjoys: [![TS logo][]][TS url] [![node logo][]][node url]
   - 🌱 Learning: [![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url]
 
@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: 
   - [![Gmail logo][]][Gmail url]
+  - [![LinkedIn logo][]][LinkedIn url]
+  - [![Messenger logo][]][Messenger url]
   - [![Instagram logo][]][Instagram url]
+  - [![Spotify logo][]][Spotify url]
 
 [GitHub logo]: http://img.shields.io/badge/kyle--seongwoo--jun-181717?style=for-the-badge&logo=github
 [GitHub url]: https://github.com/kyle-seongwoo-jun
@@ -45,6 +48,8 @@ Here are some ideas to get you started:
 [csharp url]: https://docs.microsoft.com/dotnet/csharp
 [xamarin logo]: http://img.shields.io/badge/xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white
 [xamarin url]: https://dotnet.microsoft.com/apps/xamarin
+[Android logo]: http://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white
+[Android url]: https://developer.android.com
 [TS logo]: http://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript
 [TS url]: https://www.typescriptlang.org
 [node logo]: http://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
@@ -59,5 +64,12 @@ Here are some ideas to get you started:
 
 [Gmail logo]: http://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Gmail url]: mailto:njk230@gmail.com
+[LinkedIn logo]: http://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn
+[LinkedIn url]: https://www.linkedin.com/in/kyle-seongwoo-jun-140353175
+[Messenger logo]: http://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=Messenger&logoColor=white
+[Messenger url]: https://www.messenger.com/t/seongxwoo
 [Instagram logo]: http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [Instagram url]: https://www.instagram.com/seongxwoo
+[Spotify logo]: http://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white
+[Spotify url]: https://open.spotify.com/user/9zxg65p9ubak0bgeq4v87cgdm?si=gyzS1UxfSnOW2Zp2foBaPQ
+
