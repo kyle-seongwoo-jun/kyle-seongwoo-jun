@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - [![Aurender logo][]][Aurender url]
 
 - 👨‍💻 Skills: 
-  - ❤️ Loves: [.NET][dotnet url], [C#][csharp url], [![xamarin logo][]][xamarin url]
+  - ❤️ Loves: [![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url]
   - 😃 Enjoys: [![TS logo][]][TS url] [![node logo][]][node url]
   - 🌱 Learning: [![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url]
 
@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 [Aurender logo]: http://img.shields.io/badge/Aurender%20Inc-131a20?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU0LjEgKDc2NDkwKSAtIGh0dHBzOi8vc2tldGNoYXBwLmNvbSAtLT4KICAgIDx0aXRsZT54eHhoZHBpL25vdGlfaWNvbjwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxnIGlkPSJub3RpX2ljb24iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGQ9Ik03LDIgTDE3LDIgQzE5Ljc2MTQyMzcsMiAyMiw0LjIzODU3NjI1IDIyLDcgTDIyLDE3IEMyMiwxOS43NjE0MjM3IDE5Ljc2MTQyMzcsMjIgMTcsMjIgTDcsMjIgQzQuMjM4NTc2MjUsMjIgMiwxOS43NjE0MjM3IDIsMTcgTDIsNyBDMiw0LjIzODU3NjI1IDQuMjM4NTc2MjUsMiA3LDIgWiBNNy43MjcyNzI3Myw0LjcyNzI3MjczIEM2LjA3MDQxODQ4LDQuNzI3MjcyNzMgNC43MjcyNzI3Myw2LjA3MDQxODQ4IDQuNzI3MjcyNzMsNy43MjcyNzI3MyBMNC43MjcyNzI3MywxNi4yNzI3MjczIEM0LjcyNzI3MjczLDE3LjkyOTU4MTUgNi4wNzA0MTg0OCwxOS4yNzI3MjczIDcuNzI3MjcyNzMsMTkuMjcyNzI3MyBMMTYuMjcyNzI3MywxOS4yNzI3MjczIEMxNy45Mjk1ODE1LDE5LjI3MjcyNzMgMTkuMjcyNzI3MywxNy45Mjk1ODE1IDE5LjI3MjcyNzMsMTYuMjcyNzI3MyBMMTkuMjcyNzI3Myw3LjcyNzI3MjczIEMxOS4yNzI3MjczLDYuMDcwNDE4NDggMTcuOTI5NTgxNSw0LjcyNzI3MjczIDE2LjI3MjcyNzMsNC43MjcyNzI3MyBMNy43MjcyNzI3Myw0LjcyNzI3MjczIFoiIGlkPSJDb21iaW5lZC1TaGFwZSIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPgogICAgPC9nPgo8L3N2Zz4=
 [Aurender url]: https://aurender.com
 
+[dotnet logo]: http://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net
 [dotnet url]: https://dotnet.microsoft.com
+[csharp logo]: http://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%20sharp
 [csharp url]: https://docs.microsoft.com/dotnet/csharp
 [xamarin logo]: http://img.shields.io/badge/xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white
 [xamarin url]: https://dotnet.microsoft.com/apps/xamarin
