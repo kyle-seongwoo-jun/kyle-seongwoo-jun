@@ -73,3 +73,4 @@ Here are some ideas to get you started:
 [Spotify logo]: http://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white
 [Spotify url]: https://open.spotify.com/user/9zxg65p9ubak0bgeq4v87cgdm?si=gyzS1UxfSnOW2Zp2foBaPQ
 
+![github stats](https://github-readme-stats.vercel.app/api?username=kyle-seongwoo-jun&show_icons=true&hide_border=true)
