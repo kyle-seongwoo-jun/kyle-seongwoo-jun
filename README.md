@@ -22,13 +22,15 @@ Here are some ideas to get you started:
   - [![Aurender logo][]][Aurender url]
 
 - 👨‍💻 Skills: 
-  - 👽 Expert: [![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url]
+  - 👽 Expert:  
+    - [![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url]
   - 🧑‍🎓 Intermediate:
     - [![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url] 
     - [![TS logo][]][TS url] [![node logo][]][node url]
     - [![Android logo][]][Android url] [![kotlin logo][]][kotlin url]
     - [![c logo][]][c url] [![cpp logo][]][cpp url] [![bash logo][]][bash url]
-  - 🌱 Learning: [![deno logo][]][deno url]
+  - 🌱 Learning:
+    - [![deno logo][]][deno url]
 
 - ✍️ Writings:
   - [![Medium logo][]][Medium url]
