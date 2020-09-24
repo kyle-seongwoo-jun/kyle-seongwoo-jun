@@ -22,9 +22,12 @@ Here are some ideas to get you started:
   - [![Aurender logo][]][Aurender url]
 
 - 👨‍💻 Skills: 
-  - ❤️ Loves: [![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url] [![Android logo][]][Android url]
-  - 😃 Enjoys: [![TS logo][]][TS url] [![node logo][]][node url]
-  - 🌱 Learning: [![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url]
+  - 👽 Expert: [![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url]
+  - 🧑‍🎓 Intermediate:
+    - [![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url] 
+    - [![TS logo][]][TS url] [![node logo][]][node url]
+    - [![Android logo][]][Android url] [![kotlin logo][]][kotlin url]
+  - 🌱 Learning: [![deno logo][]][deno url]
 
 - ✍️ Writings:
   - [![Medium logo][]][Medium url]
@@ -58,6 +61,10 @@ Here are some ideas to get you started:
 [Flutter url]: https://flutter.dev
 [Dart logo]: http://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart
 [Dart url]: https://dart.dev
+[kotlin logo]: http://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white
+[kotlin url]: https://kotlinlang.org
+[deno logo]: http://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno
+[deno url]: https://deno.land
 
 [Medium logo]: http://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium
 [Medium url]: https://medium.com/@kyle_seongwoo_jun/
