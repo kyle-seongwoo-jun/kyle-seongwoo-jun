@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     - [![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url] 
     - [![TS logo][]][TS url] [![node logo][]][node url]
     - [![Android logo][]][Android url] [![kotlin logo][]][kotlin url]
+    - [![c logo][]][c url] [![cpp logo][]][cpp url] [![bash logo][]][bash url]
   - 🌱 Learning: [![deno logo][]][deno url]
 
 - ✍️ Writings:
@@ -63,6 +64,12 @@ Here are some ideas to get you started:
 [Dart url]: https://dart.dev
 [kotlin logo]: http://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white
 [kotlin url]: https://kotlinlang.org
+[c logo]: http://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white
+[c url]: http://www.open-std.org/jtc1/sc22/wg14
+[cpp logo]: http://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B
+[cpp url]: https://isocpp.org
+[bash logo]: http://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white
+[bash url]: https://www.gnu.org/software/bash
 [deno logo]: http://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno
 [deno url]: https://deno.land
 
