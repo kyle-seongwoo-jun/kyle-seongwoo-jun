@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 [xamarin url]: https://dotnet.microsoft.com/apps/xamarin
 [Android logo]: http://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white
 [Android url]: https://developer.android.com
-[TS logo]: http://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript
+[TS logo]: http://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white
 [TS url]: https://www.typescriptlang.org
 [node logo]: http://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [node url]: https://nodejs.org
@@ -89,4 +89,3 @@ Here are some ideas to get you started:
 [Spotify logo]: http://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white
 [Spotify url]: https://open.spotify.com/user/9zxg65p9ubak0bgeq4v87cgdm?si=gyzS1UxfSnOW2Zp2foBaPQ
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kyle-seongwoo-jun&show_icons=true&hide_border=true)
