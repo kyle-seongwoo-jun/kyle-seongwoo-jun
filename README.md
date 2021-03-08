@@ -1,46 +1,27 @@
 ![profile](https://raw.githubusercontent.com/kyle-seongwoo-jun/kyle-seongwoo-jun/master/images/profile.jpeg)
 
-[![GitHub logo][]][GitHub url]
+[![GitHub logo][]][GitHub url] **@** [![Aurender logo][]][Aurender url]
 
-### Hi there 👋
+# 👨‍💻 Skills
+### 👽 Expert
+[![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url]
+### 🧑‍🎓 Intermediate
+[![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url]
+[![TS logo][]][TS url] [![node logo][]][node url]  
+[![Android logo][]][Android url] [![kotlin logo][]][kotlin url]
+[![c logo][]][c url] [![cpp logo][]][cpp url] [![bash logo][]][bash url] 
+### 🌱 Learning
+[![deno logo][]][deno url] [![rust logo][]][rust url]
 
-<!--
-**kyle-seongwoo-jun/kyle-seongwoo-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-
-- 🔭 I’m currently working at 
-  - [![Aurender logo][]][Aurender url]
-
-- 👨‍💻 Skills: 
-  - 👽 Expert:  
-    - [![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url]
-  - 🧑‍🎓 Intermediate:
-    - [![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url] 
-    - [![TS logo][]][TS url] [![node logo][]][node url]
-    - [![Android logo][]][Android url] [![kotlin logo][]][kotlin url]
-    - [![c logo][]][c url] [![cpp logo][]][cpp url] [![bash logo][]][bash url]
-  - 🌱 Learning:
-    - [![deno logo][]][deno url]
-
-- ✍️ Writings:
-  - [![Medium logo][]][Medium url]
-
-- 📫 How to reach me: 
-  - [![Gmail logo][]][Gmail url]
-  - [![LinkedIn logo][]][LinkedIn url]
-  - [![Messenger logo][]][Messenger url]
-  - [![Instagram logo][]][Instagram url]
-  - [![Spotify logo][]][Spotify url]
+# 👻 About me
+### ✍️ Blog
+[![Medium logo][]][Medium url]  
+### 😎 Social Media
+[![Instagram logo][]][Instagram url] [![Spotify logo][]][Spotify url]
+### 🤙 Contacts
+[![Gmail logo][]][Gmail url]
+[![LinkedIn logo][]][LinkedIn url]
+[![rocketpunch logo][]][rocketpunch url]
 
 [GitHub logo]: http://img.shields.io/badge/kyle--seongwoo--jun-181717?style=for-the-badge&logo=github
 [GitHub url]: https://github.com/kyle-seongwoo-jun
@@ -74,18 +55,19 @@ Here are some ideas to get you started:
 [bash url]: https://www.gnu.org/software/bash
 [deno logo]: http://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno
 [deno url]: https://deno.land
+[rust logo]: http://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust
+[rust url]: https://deno.land
 
-[Medium logo]: http://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium
+[Medium logo]: http://img.shields.io/badge/kyle%20seongwoo%20jun-12100E?style=for-the-badge&logo=medium
 [Medium url]: https://medium.com/@kyle_seongwoo_jun/
 
 [Gmail logo]: http://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Gmail url]: mailto:njk230@gmail.com
 [LinkedIn logo]: http://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn
 [LinkedIn url]: https://www.linkedin.com/in/kyle-seongwoo-jun-140353175
-[Messenger logo]: http://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=Messenger&logoColor=white
-[Messenger url]: https://www.messenger.com/t/seongxwoo
-[Instagram logo]: http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[Instagram logo]: http://img.shields.io/badge/@seongxwoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [Instagram url]: https://www.instagram.com/seongxwoo
-[Spotify logo]: http://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white
+[Spotify logo]: http://img.shields.io/badge/Kyle%20Seongwoo%20Jun-1ED760?style=for-the-badge&logo=Spotify&logoColor=white
 [Spotify url]: https://open.spotify.com/user/9zxg65p9ubak0bgeq4v87cgdm?si=gyzS1UxfSnOW2Zp2foBaPQ
-
+[rocketpunch logo]: https://img.shields.io/badge/Rocket%20Punch-4e61ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMTQwIDE0MCI+PGRlZnM+PHN0eWxlPi5jbHMtMiB7ZmlsbDogI2ZmZjt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImxheWVyLTEiIGRhdGEtbmFtZT0ibGF5ZXIgMSI+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNNzAuMSwxMTMuNzhsMCwwLS43NC0uNDZjLTEuNjktMS0yLjk0LTEuNzgtNC4zLTIuNjZhMTA2Ljc2LDEwNi43NiwwLDAsMS05LjIxLTYuNzFoMGMtMTMuNSw3LjMxLTIyLjMxLDE5LjYxLTIzLjA3LDIwLjcycy0xLjYzLDIuNDItMi4xNCwzLjIyYTY3LjU0LDY3LjU0LDAsMCwwLDcuMSw0LjI0LDY4Ljg3LDY4Ljg3LDAsMCwwLDcuNzksMy40N0M1MC44OSwxMjYuMjQsNjAuODEsMTE4LjI5LDcwLjEsMTEzLjc4WiIgLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0xMDcuNDEsMTI0LjkzYy0uNzYtMS4xMS05LjE2LTEzLTIyLjE5LTIwLjQybC0uOTQtLjUzLDAsMGgwcTIuMjItMS44Niw0LjE3LTMuOHYwYy42NS0uNjQsMS4yNy0xLjI5LDEuODctMmwwLDBjLjU5LS42NSwxLjE2LTEuMywxLjcxLTJsLjA3LS4wOGMuNTMtLjY1LDEuMDUtMS4zLDEuNTQtMmEuNzEuNzEsMCwwLDAsLjEtLjE0Yy40OC0uNjQuOTQtMS4yOSwxLjM3LTEuOTRsLjE0LS4yMWMuNDItLjYzLjgyLTEuMjYsMS4yLTEuOTEuMDYtLjA5LjExLS4xOS4xNy0uMjkuMzUtLjYyLjctMS4yNCwxLTEuODYuMDYtLjEzLjEyLS4yNi4xOS0uMzkuMy0uNi42LTEuMjEuODctMS44MmwuMjEtLjQ5Yy4yNS0uNTguNDktMS4xNi43MS0xLjc1LjA4LS4yLjE1LS40MS4yMi0uNjIuMi0uNTUuMzktMS4xLjU3LTEuNjYuMDgtLjI1LjE0LS41MS4yMS0uNzcuMTUtLjUyLjMtMSwuNDMtMS41Ni4wOC0uMzEuMTQtLjYyLjItLjkzLjExLS40OC4yMi0xLC4zMS0xLjQ0cy4xMS0uNzYuMTctMS4xNC4xNC0uODQuMTktMS4yNy4wOS0xLC4xMy0xLjQ3YzAtLjMzLjA3LS42NS4wOS0xLDAtLjgzLjA3LTEuNjYuMDctMi41LDAtMjAuNDUtMTMuMzctMzMuODItMjEuNy00MC4xNWgwYy0xLS43OC0yLTEuNDQtMi43OS0yLTQuNDQtMy4wNy01LjctMy4yNy01LjctMy4yN2gwQTYuNDcsNi40NywwLDAsMCw3MCwyMy4yMWE2LjU4LDYuNTgsMCwwLDAtMywuN2gwbDAsMC0uMDksMGE2MC44Nyw2MC44NywwLDAsMC0xMy40LDkuOTFsLjA1LDBDNDcuNiwzOS40Nyw0MS41Myw0Ny40MywzOSw1Ny45M2E0NC41NSw0NC41NSwwLDAsMC0xLjA4LDdoMHMwLC4yNywwLC43YzAsMCwwLC4xMSwwLC4xN2E0Ni42NSw0Ni42NSwwLDAsMC0uMDcsNS4wN3YwYTM4LjA3LDM4LjA3LDAsMCwwLDIuMzMsMTEuNzRjMCwuMDkuMDYuMTYuMS4yNCwyLjY5LDcuNDYsNy42NywxNC4zMywxNC44OCwyMC41MmwuMjguMjVjLjE2LjE0LjQ4LjM5LjQ4LjM5aDBhMTA2Ljc2LDEwNi43NiwwLDAsMCw5LjIxLDYuNzFjMS4zNi44OCwyLjYxLDEuNjQsNC4zLDIuNjZsLjc0LjQ2LDEuNDUuODhjOS4yNiw1LjQxLDE3LjQ2LDExLjYzLDIzLjE4LDIwLjg0YTY5LjQ1LDY5LjQ1LDAsMCwwLDE0LjU5LTcuNTlDMTA4Ljg4LDEyNy4xNSwxMDguMjMsMTI2LjEzLDEwNy40MSwxMjQuOTNaTTc5LjYyLDg2LjM5Yy0uMTguMjMtLjM5LjQ2LS41OC42OWwtLjUzLjY0LS44Ni45M2MtLjExLjEyLS4yMi4yNS0uMzQuMzctLjM0LjM2LS43MS43Mi0xLjA3LDEuMDhsLS4yLjJjLS40MS4zOS0uODMuNzgtMS4yNywxLjE3bC0uMDkuMDhjLS40Ni40MS0uOTMuODItMS40MiwxLjIybDAsMGMtLjkyLjc2LTEuODksMS41LTIuODksMi4yMy0xLjU0LTEuMTQtMy4yNS0yLjQ3LTUuMTEtNGE0MC40Myw0MC40MywwLDAsMS03LjQ4LTguNzFjLS4xNC0uMjUtLjI5LS40OS0uNDItLjc0TDU3LDgwLjk0YTI2LjMzLDI2LjMzLDAsMCwxLTIuODktMTIsMzEuNjMsMzEuNjMsMCwwLDEsNS4yNS0xNy4zNSw0Mi45MSw0Mi45MSwwLDAsMSw4LTkuMDljLjItLjE3LjM5LS4zMi41NS0uNDNhNCw0LDAsMCwxLDEuNDItLjczQTIuNTgsMi41OCwwLDAsMSw3MCw0MS4zYTMuNzksMy43OSwwLDAsMSwuNzkuMDgsMy40OSwzLjQ5LDAsMCwxLC45LjM3aDBzLjEzLjA3LjM4LjI0bC4xNC4wOGExLjgzLDEuODMsMCwwLDEsLjE2LjEzLDM3LjU2LDM3LjU2LDAsMCwxLDcsNy40N2gwYy41LjY2LDEsMS4zMiwxLjQsMkEzMS42MywzMS42MywwLDAsMSw4Niw2OWEyNy4wOCwyNy4wOCwwLDAsMS01LjM4LDE2QzgwLjMzLDg1LjQ4LDgwLDg1Ljk0LDc5LjYyLDg2LjM5WiIgLz48L2c+PC9zdmc+
+[rocketpunch url]: https://www.rocketpunch.com/@kyle-john
