@@ -7,9 +7,15 @@
 ![dotnet logo][] ![csharp logo][] ![xamarin logo][]
 ### 🧑‍🎓 Intermediate
 ![Flutter logo][] ![Dart logo][] ![TS logo][] ![node logo][]  
-![Android logo][] ![kotlin logo][] ![c logo][] ![cpp logo][] ![bash logo][]
+![Android logo][] ![kotlin logo][] ![python logo][] ![c logo][] ![cpp logo][] ![bash logo][]
 ### 🌱 Learning
 ![deno logo][] ![rust logo][]
+### 🖥 Back-end / 💿 Database
+![aws logo][] ![azure logo][] ![gcp logo][] ![nginx logo][]  
+![postgresql logo][] ![sqlite logo][]
+### 🛠 IDE / Tools
+![vs logo][] ![code logo][] ![androidstudio logo][] ![datagrip logo][]  
+![notion logo][] ![airtable logo][] ![clickup logo][]
 
 # 👻 About me
 ### ✍️ Blog
@@ -39,8 +45,22 @@
 [c logo]: http://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white
 [cpp logo]: http://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B
 [bash logo]: http://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white
+[python logo]: http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [deno logo]: http://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno
 [rust logo]: http://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust
+[postgresql logo]: http://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql
+[sqlite logo]: http://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite
+[aws logo]: http://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws
+[azure logo]: http://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+[gcp logo]: http://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[nginx logo]: http://img.shields.io/badge/nginx-269539?style=for-the-badge&logo=nginx&logoColor=white
+[vs logo]: http://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white
+[code logo]: http://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[androidstudio logo]: http://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+[datagrip logo]: http://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=jetbrains&logoColor=white
+[notion logo]: http://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion
+[airtable logo]: http://img.shields.io/badge/airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white
+[clickup logo]: http://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=white
 
 [Medium logo]: http://img.shields.io/badge/kyle%20seongwoo%20jun-12100E?style=for-the-badge&logo=medium
 [Medium url]: https://medium.com/@kyle_seongwoo_jun/
