@@ -4,14 +4,12 @@
 
 # 👨‍💻 Skills
 ### 👽 Expert
-[![dotnet logo][]][dotnet url] [![csharp logo][]][csharp url] [![xamarin logo][]][xamarin url]
+![dotnet logo][] ![csharp logo][] ![xamarin logo][]
 ### 🧑‍🎓 Intermediate
-[![Flutter logo][]][Flutter url] [![Dart logo][]][Dart url]
-[![TS logo][]][TS url] [![node logo][]][node url]  
-[![Android logo][]][Android url] [![kotlin logo][]][kotlin url]
-[![c logo][]][c url] [![cpp logo][]][cpp url] [![bash logo][]][bash url] 
+![Flutter logo][] ![Dart logo][] ![TS logo][] ![node logo][]  
+![Android logo][] ![kotlin logo][] ![c logo][] ![cpp logo][] ![bash logo][]
 ### 🌱 Learning
-[![deno logo][]][deno url] [![rust logo][]][rust url]
+![deno logo][] ![rust logo][]
 
 # 👻 About me
 ### ✍️ Blog
@@ -30,33 +28,19 @@
 [Aurender url]: https://aurender.com
 
 [dotnet logo]: http://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net
-[dotnet url]: https://dotnet.microsoft.com
 [csharp logo]: http://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%20sharp
-[csharp url]: https://docs.microsoft.com/dotnet/csharp
 [xamarin logo]: http://img.shields.io/badge/xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white
-[xamarin url]: https://dotnet.microsoft.com/apps/xamarin
 [Android logo]: http://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white
-[Android url]: https://developer.android.com
 [TS logo]: http://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white
-[TS url]: https://www.typescriptlang.org
 [node logo]: http://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
-[node url]: https://nodejs.org
 [Flutter logo]: http://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter
-[Flutter url]: https://flutter.dev
 [Dart logo]: http://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart
-[Dart url]: https://dart.dev
 [kotlin logo]: http://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white
-[kotlin url]: https://kotlinlang.org
 [c logo]: http://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white
-[c url]: http://www.open-std.org/jtc1/sc22/wg14
 [cpp logo]: http://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B
-[cpp url]: https://isocpp.org
 [bash logo]: http://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white
-[bash url]: https://www.gnu.org/software/bash
 [deno logo]: http://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno
-[deno url]: https://deno.land
 [rust logo]: http://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust
-[rust url]: https://deno.land
 
 [Medium logo]: http://img.shields.io/badge/kyle%20seongwoo%20jun-12100E?style=for-the-badge&logo=medium
 [Medium url]: https://medium.com/@kyle_seongwoo_jun/
