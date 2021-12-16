@@ -48,7 +48,7 @@
 [python logo]: http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [deno logo]: http://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno
 [rust logo]: http://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust
-[postgresql logo]: http://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql
+[postgresql logo]: http://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [sqlite logo]: http://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite
 [aws logo]: http://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws
 [azure logo]: http://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
