@@ -3,26 +3,40 @@
 [![GitHub logo][]][GitHub url] **@** [![Aurender logo][]][Aurender url]
 
 # 👨‍💻 Skills
+
 ### 👽 Expert
+
+![Flutter logo][] ![Dart logo][]  
 ![dotnet logo][] ![csharp logo][] ![xamarin logo][]
+
 ### 🧑‍🎓 Intermediate
-![Flutter logo][] ![Dart logo][] ![TS logo][] ![node logo][]  
-![Android logo][] ![kotlin logo][] ![python logo][] ![c logo][] ![cpp logo][] ![bash logo][]
+
+![TS logo][] ![node logo][]  
+![bash logo][] ![c logo][] ![cpp logo][] ![python logo][]  
+![Android logo][] ![kotlin logo][]
+
 ### 🌱 Learning
+
 ![deno logo][] ![rust logo][]
+
 ### 🖥 Back-end / 💿 Database
+
 ![aws logo][] ![azure logo][] ![gcp logo][] ![nginx logo][]  
 ![postgresql logo][] ![sqlite logo][]
+
 ### 🛠 IDE / Tools
+
 ![vs logo][] ![code logo][] ![androidstudio logo][] ![datagrip logo][]  
 ![notion logo][] ![airtable logo][] ![clickup logo][]
 
 # 👻 About me
+
 ### ✍️ Blog
+
 [![Medium logo][]][Medium url]  
-### 😎 Social Media
-[![Instagram logo][]][Instagram url] [![Spotify logo][]][Spotify url]
+
 ### 🤙 Contacts
+
 [![Gmail logo][]][Gmail url]
 [![LinkedIn logo][]][LinkedIn url]
 [![rocketpunch logo][]][rocketpunch url]
@@ -69,9 +83,5 @@
 [Gmail url]: mailto:njk230@gmail.com
 [LinkedIn logo]: http://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn
 [LinkedIn url]: https://www.linkedin.com/in/kyle-seongwoo-jun-140353175
-[Instagram logo]: http://img.shields.io/badge/@seongxwoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[Instagram url]: https://www.instagram.com/seongxwoo
-[Spotify logo]: http://img.shields.io/badge/Kyle%20Seongwoo%20Jun-1ED760?style=for-the-badge&logo=Spotify&logoColor=white
-[Spotify url]: https://open.spotify.com/user/9zxg65p9ubak0bgeq4v87cgdm?si=gyzS1UxfSnOW2Zp2foBaPQ
 [rocketpunch logo]: https://img.shields.io/badge/Rocket%20Punch-4e61ff?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB2aWV3Qm94PSIwIDAgMTQwIDE0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0ibTcwLjEgMTEzLjc4LTAuNzQtMC40NmMtMS42OS0xLTIuOTQtMS43OC00LjMtMi42NmExMDYuNzYgMTA2Ljc2IDAgMCAxLTkuMjEtNi43MWMtMTMuNSA3LjMxLTIyLjMxIDE5LjYxLTIzLjA3IDIwLjcycy0xLjYzIDIuNDItMi4xNCAzLjIyYTY3LjU0IDY3LjU0IDAgMCAwIDcuMSA0LjI0IDY4Ljg3IDY4Ljg3IDAgMCAwIDcuNzkgMy40N2M1LjM2LTkuMzYgMTUuMjgtMTcuMzEgMjQuNTctMjEuODJ6IiBmaWxsPSIjZmZmIi8+CjxwYXRoIGQ9Ik0xMDcuNDEsMTI0LjkzYy0uNzYtMS4xMS05LjE2LTEzLTIyLjE5LTIwLjQybC0uOTQtLjUzLDAsMGgwcTIuMjItMS44Niw0LjE3LTMuOHYwYy42NS0uNjQsMS4yNy0xLjI5LDEuODctMmwwLDBjLjU5LS42NSwxLjE2LTEuMywxLjcxLTJsLjA3LS4wOGMuNTMtLjY1LDEuMDUtMS4zLDEuNTQtMmEuNzEuNzEsMCwwLDAsLjEtLjE0Yy40OC0uNjQuOTQtMS4yOSwxLjM3LTEuOTRsLjE0LS4yMWMuNDItLjYzLjgyLTEuMjYsMS4yLTEuOTEuMDYtLjA5LjExLS4xOS4xNy0uMjkuMzUtLjYyLjctMS4yNCwxLTEuODYuMDYtLjEzLjEyLS4yNi4xOS0uMzkuMy0uNi42LTEuMjEuODctMS44MmwuMjEtLjQ5Yy4yNS0uNTguNDktMS4xNi43MS0xLjc1LjA4LS4yLjE1LS40MS4yMi0uNjIuMi0uNTUuMzktMS4xLjU3LTEuNjYuMDgtLjI1LjE0LS41MS4yMS0uNzcuMTUtLjUyLjMtMSwuNDMtMS41Ni4wOC0uMzEuMTQtLjYyLjItLjkzLjExLS40OC4yMi0xLC4zMS0xLjQ0cy4xMS0uNzYuMTctMS4xNC4xNC0uODQuMTktMS4yNy4wOS0xLC4xMy0xLjQ3YzAtLjMzLjA3LS42NS4wOS0xLDAtLjgzLjA3LTEuNjYuMDctMi41LDAtMjAuNDUtMTMuMzctMzMuODItMjEuNy00MC4xNWgwYy0xLS43OC0yLTEuNDQtMi43OS0yLTQuNDQtMy4wNy01LjctMy4yNy01LjctMy4yN2gwQTYuNDcsNi40NywwLDAsMCw3MCwyMy4yMWE2LjU4LDYuNTgsMCwwLDAtMywuN2gwbDAsMC0uMDksMGE2MC44Nyw2MC44NywwLDAsMC0xMy40LDkuOTFsLjA1LDBDNDcuNiwzOS40Nyw0MS41Myw0Ny40MywzOSw1Ny45M2E0NC41NSw0NC41NSwwLDAsMC0xLjA4LDdoMHMwLC4yNywwLC43YzAsMCwwLC4xMSwwLC4xN2E0Ni42NSw0Ni42NSwwLDAsMC0uMDcsNS4wN3YwYTM4LjA3LDM4LjA3LDAsMCwwLDIuMzMsMTEuNzRjMCwuMDkuMDYuMTYuMS4yNCwyLjY5LDcuNDYsNy42NywxNC4zMywxNC44OCwyMC41MmwuMjguMjVjLjE2LjE0LjQ4LjM5LjQ4LjM5aDBhMTA2Ljc2LDEwNi43NiwwLDAsMCw5LjIxLDYuNzFjMS4zNi44OCwyLjYxLDEuNjQsNC4zLDIuNjZsLjc0LjQ2LDEuNDUuODhjOS4yNiw1LjQxLDE3LjQ2LDExLjYzLDIzLjE4LDIwLjg0YTY5LjQ1LDY5LjQ1LDAsMCwwLDE0LjU5LTcuNTlDMTA4Ljg4LDEyNy4xNSwxMDguMjMsMTI2LjEzLDEwNy40MSwxMjQuOTNaTTc5LjYyLDg2LjM5Yy0uMTguMjMtLjM5LjQ2LS41OC42OWwtLjUzLjY0LS44Ni45M2MtLjExLjEyLS4yMi4yNS0uMzQuMzctLjM0LjM2LS43MS43Mi0xLjA3LDEuMDhsLS4yLjJjLS40MS4zOS0uODMuNzgtMS4yNywxLjE3bC0uMDkuMDhjLS40Ni40MS0uOTMuODItMS40MiwxLjIybDAsMGMtLjkyLjc2LTEuODksMS41LTIuODksMi4yMy0xLjU0LTEuMTQtMy4yNS0yLjQ3LTUuMTEtNGE0MC40Myw0MC40MywwLDAsMS03LjQ4LTguNzFjLS4xNC0uMjUtLjI5LS40OS0uNDItLjc0TDU3LDgwLjk0YTI2LjMzLDI2LjMzLDAsMCwxLTIuODktMTIsMzEuNjMsMzEuNjMsMCwwLDEsNS4yNS0xNy4zNSw0Mi45MSw0Mi45MSwwLDAsMSw4LTkuMDljLjItLjE3LjM5LS4zMi41NS0uNDNhNCw0LDAsMCwxLDEuNDItLjczQTIuNTgsMi41OCwwLDAsMSw3MCw0MS4zYTMuNzksMy43OSwwLDAsMSwuNzkuMDgsMy40OSwzLjQ5LDAsMCwxLC45LjM3aDBzLjEzLjA3LjM4LjI0bC4xNC4wOGExLjgzLDEuODMsMCwwLDEsLjE2LjEzLDM3LjU2LDM3LjU2LDAsMCwxLDcsNy40N2gwYy41LjY2LDEsMS4zMiwxLjQsMkEzMS42MywzMS42MywwLDAsMSw4Niw2OWEyNy4wOCwyNy4wOCwwLDAsMS01LjM4LDE2QzgwLjMzLDg1LjQ4LDgwLDg1Ljk0LDc5LjYyLDg2LjM5WiIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4=
 [rocketpunch url]: https://www.rocketpunch.com/@kyle-john
